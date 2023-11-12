@@ -1,4 +1,4 @@
-#D2MSA-Net
+# D2MSA-Net
 Code for the Paper "Dense Dilated Multi-Scale Supervised Attention-Guided Network for histopathology image segmentation" Computers in Biology and Medicine Volume 163, September 2023, 107182 https://doi.org/10.1016/j.compbiomed.2023.107182
 
 Please site our Paper if you intend to use the code:
